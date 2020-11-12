@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/eindwerk-matdemeue/static/css/main.24700b73.chunk.css",
-    "main.js": "/eindwerk-matdemeue/static/js/main.26b6417a.chunk.js",
-    "main.js.map": "/eindwerk-matdemeue/static/js/main.26b6417a.chunk.js.map",
-    "runtime-main.js": "/eindwerk-matdemeue/static/js/runtime-main.f64edbbf.js",
-    "runtime-main.js.map": "/eindwerk-matdemeue/static/js/runtime-main.f64edbbf.js.map",
-    "static/js/2.23b6abe7.chunk.js": "/eindwerk-matdemeue/static/js/2.23b6abe7.chunk.js",
-    "static/js/2.23b6abe7.chunk.js.map": "/eindwerk-matdemeue/static/js/2.23b6abe7.chunk.js.map",
-    "index.html": "/eindwerk-matdemeue/index.html",
-    "precache-manifest.eed776b93d2a9e5c9eb5ddabfd3c0bc4.js": "/eindwerk-matdemeue/precache-manifest.eed776b93d2a9e5c9eb5ddabfd3c0bc4.js",
-    "service-worker.js": "/eindwerk-matdemeue/service-worker.js",
-    "static/css/main.24700b73.chunk.css.map": "/eindwerk-matdemeue/static/css/main.24700b73.chunk.css.map",
-    "static/js/2.23b6abe7.chunk.js.LICENSE.txt": "/eindwerk-matdemeue/static/js/2.23b6abe7.chunk.js.LICENSE.txt",
-    "static/media/logo-acnh.png": "/eindwerk-matdemeue/static/media/logo-acnh.835045b3.png"
+    "main.css": "/1920-PGM3-eindopdracht/static/css/main.24700b73.chunk.css",
+    "main.js": "/1920-PGM3-eindopdracht/static/js/main.79c3beb1.chunk.js",
+    "main.js.map": "/1920-PGM3-eindopdracht/static/js/main.79c3beb1.chunk.js.map",
+    "runtime-main.js": "/1920-PGM3-eindopdracht/static/js/runtime-main.21e8ab11.js",
+    "runtime-main.js.map": "/1920-PGM3-eindopdracht/static/js/runtime-main.21e8ab11.js.map",
+    "static/js/2.23b6abe7.chunk.js": "/1920-PGM3-eindopdracht/static/js/2.23b6abe7.chunk.js",
+    "static/js/2.23b6abe7.chunk.js.map": "/1920-PGM3-eindopdracht/static/js/2.23b6abe7.chunk.js.map",
+    "index.html": "/1920-PGM3-eindopdracht/index.html",
+    "precache-manifest.efc5cf214bc1928f92e5ee53d0b89de8.js": "/1920-PGM3-eindopdracht/precache-manifest.efc5cf214bc1928f92e5ee53d0b89de8.js",
+    "service-worker.js": "/1920-PGM3-eindopdracht/service-worker.js",
+    "static/css/main.24700b73.chunk.css.map": "/1920-PGM3-eindopdracht/static/css/main.24700b73.chunk.css.map",
+    "static/js/2.23b6abe7.chunk.js.LICENSE.txt": "/1920-PGM3-eindopdracht/static/js/2.23b6abe7.chunk.js.LICENSE.txt",
+    "static/media/logo-acnh.png": "/1920-PGM3-eindopdracht/static/media/logo-acnh.835045b3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f64edbbf.js",
+    "static/js/runtime-main.21e8ab11.js",
     "static/js/2.23b6abe7.chunk.js",
     "static/css/main.24700b73.chunk.css",
-    "static/js/main.26b6417a.chunk.js"
+    "static/js/main.79c3beb1.chunk.js"
   ]
 }
