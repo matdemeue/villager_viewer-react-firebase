@@ -1,0 +1,18 @@
+@import '../../_sass/vendor/bootstrap';
+
+.app-footer {
+  background: $gray-900;
+  color: $gray-100;
+}
+
+.footer {
+  height: 80px;
+  
+  &__info {
+    padding: 20px;
+
+    p {
+      margin-bottom: 0px;
+    }
+  }
+}

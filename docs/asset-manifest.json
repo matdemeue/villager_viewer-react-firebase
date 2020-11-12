@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eindwerk-matdemeue/static/css/main.24700b73.chunk.css",
+    "main.js": "/eindwerk-matdemeue/static/js/main.26b6417a.chunk.js",
+    "main.js.map": "/eindwerk-matdemeue/static/js/main.26b6417a.chunk.js.map",
+    "runtime-main.js": "/eindwerk-matdemeue/static/js/runtime-main.f64edbbf.js",
+    "runtime-main.js.map": "/eindwerk-matdemeue/static/js/runtime-main.f64edbbf.js.map",
+    "static/js/2.23b6abe7.chunk.js": "/eindwerk-matdemeue/static/js/2.23b6abe7.chunk.js",
+    "static/js/2.23b6abe7.chunk.js.map": "/eindwerk-matdemeue/static/js/2.23b6abe7.chunk.js.map",
+    "index.html": "/eindwerk-matdemeue/index.html",
+    "precache-manifest.eed776b93d2a9e5c9eb5ddabfd3c0bc4.js": "/eindwerk-matdemeue/precache-manifest.eed776b93d2a9e5c9eb5ddabfd3c0bc4.js",
+    "service-worker.js": "/eindwerk-matdemeue/service-worker.js",
+    "static/css/main.24700b73.chunk.css.map": "/eindwerk-matdemeue/static/css/main.24700b73.chunk.css.map",
+    "static/js/2.23b6abe7.chunk.js.LICENSE.txt": "/eindwerk-matdemeue/static/js/2.23b6abe7.chunk.js.LICENSE.txt",
+    "static/media/logo-acnh.png": "/eindwerk-matdemeue/static/media/logo-acnh.835045b3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f64edbbf.js",
+    "static/js/2.23b6abe7.chunk.js",
+    "static/css/main.24700b73.chunk.css",
+    "static/js/main.26b6417a.chunk.js"
+  ]
+}

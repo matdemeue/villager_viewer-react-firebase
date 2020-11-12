@@ -1,0 +1,17 @@
+.hero {
+    &__logo {
+        img {
+            width: 100%;
+            background-color: #FCC231;
+            padding: 25px;
+        }
+    }
+
+    &__content {
+        h1 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 25px;
+            font-weight: 700;
+        }
+    }
+}
