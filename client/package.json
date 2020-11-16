@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://git.mathieudemeue.be/1920-PGM3-eindopdracht/",
+  "homepage": "http://git.mathieudemeue.be/villager_viewer-react-firebase",
   "dependencies": {
     "@benmajor/jquery-touch-events": "^2.0.3",
     "@testing-library/jest-dom": "^4.2.4",

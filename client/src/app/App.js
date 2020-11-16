@@ -16,7 +16,7 @@ function App() {
     <div className="app">
       <FirebaseProvider>
         <FirestoreProvider>
-          <Router basename={'/1920-PGM3-eindopdracht'}>
+          <Router basename={'/villager_viewer-react-firebase'}>
             <Switch>
               <RouteWithLayout exact path={Routes.LANDING} layout={ BaseLayout } component={ HomePage }/>
               <Redirect from={Routes.HOME} to={Routes.LANDING}/>
