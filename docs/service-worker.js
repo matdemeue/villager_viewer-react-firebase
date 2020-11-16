@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/villager_viewer-react-firebase/precache-manifest.6f0c4ec28524380f0672ca09768077bb.js"
+  "/villager_viewer-react-firebase/precache-manifest.350ccef3360f7d01d1ded7ce632fe649.js"
 );
 
 self.addEventListener('message', (event) => {

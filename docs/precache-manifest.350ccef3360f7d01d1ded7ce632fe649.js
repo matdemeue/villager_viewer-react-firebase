@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75f2dfc08826aae13aaac7012860fb47",
+    "revision": "19983355f84601d610e9eb9a218dbae6",
     "url": "/villager_viewer-react-firebase/index.html"
   },
   {
-    "revision": "ef4ea6a01f402ca32644",
+    "revision": "b402d1ee81e20db70f56",
     "url": "/villager_viewer-react-firebase/static/css/main.24700b73.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/villager_viewer-react-firebase/static/js/2.23b6abe7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef4ea6a01f402ca32644",
-    "url": "/villager_viewer-react-firebase/static/js/main.eddb0e17.chunk.js"
+    "revision": "b402d1ee81e20db70f56",
+    "url": "/villager_viewer-react-firebase/static/js/main.da4de6aa.chunk.js"
   },
   {
     "revision": "79b20e1328711ccbf8e5",
