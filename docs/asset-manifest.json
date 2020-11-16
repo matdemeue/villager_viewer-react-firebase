@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/1920-PGM3-eindopdracht/static/css/main.24700b73.chunk.css",
-    "main.js": "/1920-PGM3-eindopdracht/static/js/main.cf02f902.chunk.js",
-    "main.js.map": "/1920-PGM3-eindopdracht/static/js/main.cf02f902.chunk.js.map",
-    "runtime-main.js": "/1920-PGM3-eindopdracht/static/js/runtime-main.21e8ab11.js",
-    "runtime-main.js.map": "/1920-PGM3-eindopdracht/static/js/runtime-main.21e8ab11.js.map",
-    "static/js/2.23b6abe7.chunk.js": "/1920-PGM3-eindopdracht/static/js/2.23b6abe7.chunk.js",
-    "static/js/2.23b6abe7.chunk.js.map": "/1920-PGM3-eindopdracht/static/js/2.23b6abe7.chunk.js.map",
-    "index.html": "/1920-PGM3-eindopdracht/index.html",
-    "precache-manifest.dd69216efaa9edb1b7b9ed752de4d346.js": "/1920-PGM3-eindopdracht/precache-manifest.dd69216efaa9edb1b7b9ed752de4d346.js",
-    "service-worker.js": "/1920-PGM3-eindopdracht/service-worker.js",
-    "static/css/main.24700b73.chunk.css.map": "/1920-PGM3-eindopdracht/static/css/main.24700b73.chunk.css.map",
-    "static/js/2.23b6abe7.chunk.js.LICENSE.txt": "/1920-PGM3-eindopdracht/static/js/2.23b6abe7.chunk.js.LICENSE.txt",
-    "static/media/logo-acnh.png": "/1920-PGM3-eindopdracht/static/media/logo-acnh.835045b3.png"
+    "main.css": "/villager_viewer-react-firebase/static/css/main.24700b73.chunk.css",
+    "main.js": "/villager_viewer-react-firebase/static/js/main.eddb0e17.chunk.js",
+    "main.js.map": "/villager_viewer-react-firebase/static/js/main.eddb0e17.chunk.js.map",
+    "runtime-main.js": "/villager_viewer-react-firebase/static/js/runtime-main.97e57ba6.js",
+    "runtime-main.js.map": "/villager_viewer-react-firebase/static/js/runtime-main.97e57ba6.js.map",
+    "static/js/2.23b6abe7.chunk.js": "/villager_viewer-react-firebase/static/js/2.23b6abe7.chunk.js",
+    "static/js/2.23b6abe7.chunk.js.map": "/villager_viewer-react-firebase/static/js/2.23b6abe7.chunk.js.map",
+    "index.html": "/villager_viewer-react-firebase/index.html",
+    "precache-manifest.6f0c4ec28524380f0672ca09768077bb.js": "/villager_viewer-react-firebase/precache-manifest.6f0c4ec28524380f0672ca09768077bb.js",
+    "service-worker.js": "/villager_viewer-react-firebase/service-worker.js",
+    "static/css/main.24700b73.chunk.css.map": "/villager_viewer-react-firebase/static/css/main.24700b73.chunk.css.map",
+    "static/js/2.23b6abe7.chunk.js.LICENSE.txt": "/villager_viewer-react-firebase/static/js/2.23b6abe7.chunk.js.LICENSE.txt",
+    "static/media/logo-acnh.png": "/villager_viewer-react-firebase/static/media/logo-acnh.835045b3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.21e8ab11.js",
+    "static/js/runtime-main.97e57ba6.js",
     "static/js/2.23b6abe7.chunk.js",
     "static/css/main.24700b73.chunk.css",
-    "static/js/main.cf02f902.chunk.js"
+    "static/js/main.eddb0e17.chunk.js"
   ]
 }
